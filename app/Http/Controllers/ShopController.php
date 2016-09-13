@@ -22,6 +22,9 @@ class ShopController extends Controller
 
     		'product_title' => 'required|min:1|max:255',
     		'product_description' => 'required|min:10',
+            'amount' => 'required|number',
+            'quantity' =>'required|number',
+            'image' =>'required|image',
 
 
     	]);
