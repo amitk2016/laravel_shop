@@ -20,3 +20,5 @@ Route::post('submit-product','ShopController@submit');
 Route::get('Aboutus','AboutusController@index');
 
 Route::get('Contact','ContactController@index');
+
+Route::get('cart','CartController@index');

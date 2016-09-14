@@ -18,6 +18,7 @@
         <li><a href="/Aboutus">About Us</a></li>
         <li><a href="/shop">Shop</a></li>
         <li><a href="/Contact">Contact</a></li>
+        <li><a href="/cart">Cart</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
           <ul class="dropdown-menu">
